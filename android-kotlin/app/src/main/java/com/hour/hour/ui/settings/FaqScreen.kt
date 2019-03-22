@@ -41,9 +41,6 @@ class FaqScreen : BaseController() {
                     "\n" +
                     "Q4: What if I don't want to track my productivity apps?\n" +
                     "A: Go to 'Setting' --> 'Not Tracking List' and choose apps you don't want to track.\n" +
-                    "\n" +
-                    "Q5: I found a bug. What can I do?\n" +
-                    "A: Please feel free to email me. You can find my contact in 'About This App'.\n" +
                     "\n"
         }
 

@@ -31,8 +31,7 @@ class AboutThisAppScreen : BaseController() {
         textView.apply {
             movementMethod = ScrollingMovementMethod()
             setPadding(dp(26), 0, dp(26), 0)
-            text = "\nThis app is developed by Oscar Chau as a part of the undergraduate final year project.\n\n" +
-                    "If you find a bug or have any suggestion, please feel free to contact me at shdoskar[at]gmail[dot]com."
+            text = "Smart Time is used for monitoring the phone usage. There might be some bug that needs fixing."
         }
 
         contentLayout.apply {
